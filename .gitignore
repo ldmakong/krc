@@ -1,2 +1,2 @@
-#Ignore all .sh files
+#Ignore all ".sh" files
 *.sh
